@@ -6,7 +6,7 @@ Given a certain location, find a set suitable candidates that have a certain sof
 
 Engineering challenges: 
 1. Finding candidates in certain location, by computing the distance from the  location of job. -Performance of search.
-2. Rate the candidates to match the requirements of the job profile- Performance of ML algorithm such as KNN which is used to match the job requirements to condidate profile.
+2. Rate the candidates to match the requirements of the job profile- Performance of ML algorithm such as KNN which is used to match the job requirements to candidate profile.
 3. Rate the candidates all over the US to match the requirements of position. Focus on matching the job requirements to all the individual users in the database.
 4. Candidates evaluation criterion:
   - Number of followers, forks for the repo.
