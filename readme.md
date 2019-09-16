@@ -10,7 +10,7 @@ Engineering challenges:
 3. Rate the candidates all over the US to match the requirements of position. Focus on matching the job requirements to all the individual users in the database.
 4. Candidates evaluation criterion:
   - Number of followers, forks for the repo.
-  - Number of repo activity in the specific language e.g. commit, push.
+  - Number of repo activity in the specific language e.g. commit, push over time if possible.
 
 Data Set: 
 https://bigquery.cloud.google.com/results/mapdemo-221219:US.bquijob_29602955_16d375892a6
