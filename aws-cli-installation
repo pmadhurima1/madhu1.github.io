@@ -9,3 +9,5 @@ $ pip3 install awscli --upgrade --user
 download data to local folder 
 wget url 
 For other wget options e.g. to restore a paused download https://www.howtoforge.com/linux-basics-how-to-download-files-on-the-shell-with-wget 
+
+Enable S3 permissions for your instance through policies.
