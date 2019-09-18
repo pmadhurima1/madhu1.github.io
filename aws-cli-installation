@@ -11,3 +11,4 @@ wget url
 For other wget options e.g. to restore a paused download https://www.howtoforge.com/linux-basics-how-to-download-files-on-the-shell-with-wget 
 
 Enable S3 permissions for your instance through policies.
+https://github.com/churchlab/millstone/wiki/Moving-Data-Between-S3-and-EC2-Instances
