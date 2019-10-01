@@ -1,5 +1,4 @@
-# Project Title
-ACE coder
+# Project Title : ACE coder
 
 Recruitment tool to find GitHub users.
 [Presentation (https://docs.google.com/presentation/d/1rHsal4DjAMQrGeXlf2AFXeYpI9uFLzka9hd9vZe-AI0/edit?usp=sharing)
