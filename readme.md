@@ -23,7 +23,7 @@ Recruitment for software tech industry is changing and currently around 74% of H
   - Number of repo activity in the specific language e.g. commit, push.
 
 ## Architecture
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/madhu1/madhu1.github.io/blob/master/css/Architecture.png)
 
 ## Dataset
 
