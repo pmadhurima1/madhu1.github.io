@@ -1,8 +1,7 @@
-# <ACE coder/> 
+# PROJECT TITLE : ACE coder
 
 Recruitment tool to find GitHub users.
-
-[https://docs.google.com/presentation/d/1rHsal4DjAMQrGeXlf2AFXeYpI9uFLzka9hd9vZe-AI0/edit?usp=sharing](#) to your presentation.
+[Presentation (https://docs.google.com/presentation/d/1rHsal4DjAMQrGeXlf2AFXeYpI9uFLzka9hd9vZe-AI0/edit?usp=sharing)
 
 <hr/>
 
