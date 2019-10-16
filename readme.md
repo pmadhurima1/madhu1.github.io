@@ -6,7 +6,7 @@ Recruitment tool to find GitHub users.
 <hr/>
 
 ## How to install and get it up and running
-
+This required uses data base installed in postgres to store the summary of user data.
 
 <hr/>
 
@@ -33,3 +33,4 @@ https://bigquery.cloud.google.com/results/mapdemo-221219:US.bquijob_29602955_16d
 Bottle Neck: Performance of Joins for processing the data. 
 
 ## Trade-offs
+Addresses the tradeoff of time to process vs. cost of processing < choice of EC2 instances : free, spot or on-demand >
