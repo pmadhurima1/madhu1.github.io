@@ -1,0 +1,19 @@
+users.csv:2.6GB 
+records:32430223
+user_count:653644
+time_user:3.6 mins
+
+----------------
+commit_load: 54min
+
+------------------
+project_owner: 2259653
+proj owner : 17 mins
+proj_language : 77016538
+updated profile table (rows) combination of user* l:anguages :  2259653 
+---------------------
+follower table: 6min : single node operation
+time_follower:2.8 min
+rows inserted to user table:352013
+---------------------------- 
+

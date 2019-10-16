@@ -1,0 +1,8 @@
+[postgresql]
+url = jdbc:postgresql://localhost:5432/resultdb
+Database = resultdb
+schema = <schema>
+username= <username>
+password = <pwd> 
+driver=org.postgresql.Driver
+

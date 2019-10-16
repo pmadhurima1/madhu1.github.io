@@ -1,0 +1,23 @@
+id,login,name,created_at,type,fake,deleted,long,lat,country_code,state,city
+-1,"0xnoone",\N,"2016-04-18 11:42:46","USR",0,1,\N,\N,\N,\N,\N,\N
+1,"tosch","Sage GmbH","2008-12-15 12:28:33","USR",0,0,0.00000000,0.00000000,\N,\N,\N,"Rastede, Germany"
+2,"jmettraux",\N,"2008-03-22 00:37:42","USR",0,0,132.45529270,34.38520290,"jp","Hiroshima Prefecture","Hiroshima","Hiroshima"
+3,"SMGNMSKD",\N,"2012-08-03 16:08:15","USR",1,1,\N,\N,\N,\N,\N,\N
+4,"kennethkalmer","@ValuationUp","2008-04-28 17:25:53","USR",0,0,28.04730510,-26.20410280,"za","City of Johannesburg Metropolitan Municipality","Johannesburg","Johannesburg, South Africa"
+5,"weppos","DNSimple","2008-04-06 08:44:35","USR",0,0,12.49636550,41.90278350,"it","Rome","Rome","Rome, Italy"
+6,"anb","KeyLemon","2010-02-05 06:35:04","USR",0,0,0.00000000,0.00000000,\N,\N,\N,\N
+7,"hasimo","medley","2008-09-30 00:05:24","USR",0,0,139.69170640,35.68948750,"jp","Tokyo","Tokyo","Tokyo/Japan"
+8,"mschiller",\N,"2010-03-26 04:57:36","USR",0,0,13.40495400,52.52000660,"de","Berlin","Berlin","Berlin"
+9,"ben-biddington",\N,"2008-11-03 12:13:46","USR",0,0,174.77623600,-41.28646030,"nz","Wellington","Wellington","Wellington, NZ"
+10,"mcollina","@nearform ","2009-02-05 21:24:19","USR",0,0,0.00000000,0.00000000,\N,\N,\N,"In the clouds above Italy"
+11,"erwin",\N,"2008-05-30 12:25:28","USR",0,0,0.00000000,0.00000000,\N,\N,\N,\N
+12,"lbt","Merlin Design Ltd","2009-05-24 15:29:53","USR",0,0,-3.43597300,55.37805100,"gb",\N,\N,"UK"
+13,"nandosola","@GrapheneDB ","2009-09-10 15:04:41","USR",0,0,-4.42139880,36.72127370,"es","Málaga","Málaga","Málaga, Spain"
+14,"nanounanue","Center for Data Science and Public Policy","2010-11-24 05:43:29","USR",0,0,-87.62979820,41.87811360,"us","Cook County","Chicago","Chicago, IL"
+15,"efficientcloud",\N,"2011-03-11 09:22:49","ORG",0,0,-0.12721001,51.50642014,"gb","England","London","London, UK & Vienna, Austria"
+16,"jbutkowski",\N,"2011-06-27 06:22:45","USR",0,0,153.02342224,-27.46846008,"au","QLD","Brisbane","Brisbane, Australia"
+17,"miklophone","Hinterland","2008-04-07 07:18:28","USR",0,1,0.00000000,0.00000000,\N,\N,\N,"London, UK"
+18,"developertown",\N,"2010-12-09 13:14:35","ORG",0,0,-86.15806800,39.76840300,"us","Marion County","Indianapolis","Indianapolis, IN"
+19,"rupakg","@serverless","2008-04-22 15:33:56","USR",0,0,-84.38798240,33.74899540,"us","Fulton County","Atlanta","Atlanta, Georgia, USA"
+
+

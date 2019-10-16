@@ -1,0 +1,22 @@
+
+-1,\N,-1,"""fake project""","""Fake entry to indicate a previously existing but currently absent repo""",\N,"""2016-04-18 11:45:02""",\N,0,"""1970-01-01 01:00:01""",\N
+1,"""https://api.github.com/repos/tosch/ruote-kit""",1,"""ruote-kit""","""RESTful wrapper for ruote workflow engine""","""Ruby""","""2009-12-08 11:17:27""",2,0,"""2019-05-30 16:35:42""",84984
+2,"""https://api.github.com/repos/kennethkalmer/ruote-kit""",4,"""ruote-kit""","""RESTish wrapper for ruote workflow engine""","""Ruby""","""2009-06-10 20:32:21""",\N,0,"""2016-10-11 14:11:27""",\N
+3,"""https://api.github.com/repos/matplotlib/basemap""",23,"""basemap""","""""","""C++""","""2011-02-19 02:58:42""",\N,0,"""2019-05-29 15:49:51""",\N
+4,"""https://api.github.com/repos/jswhit/basemap""",24,"""basemap""","""""","""C++""","""2012-06-14 14:14:56""",3,1,"""1970-01-01 01:00:01""",\N
+5,"""https://api.github.com/repos/funkaster/cocos2d-x""",28,"""cocos2d-x""","""Port of cocos2d-iphone in C++""","""C""","""2012-03-12 17:48:19""",6,0,"""2016-10-11 14:20:27""",\N
+6,"""https://api.github.com/repos/cocos2d/cocos2d-x""",31,"""cocos2d-x""","""cocos2d-x for C++""","""C++""","""2010-11-18 23:17:00""",\N,0,"""2019-05-31 05:25:48""",\N
+7,"""https://api.github.com/repos/pixonic/cocos2d-x""",42,"""cocos2d-x""","""Port of cocos2d-iphone in C++""","""C""","""2012-04-23 12:20:29""",6,1,"""2016-03-02 01:32:24""",\N
+8,"""https://api.github.com/repos/NUBIC/ncs_navigator_core""",65,"""ncs_navigator_core""","""Case management and instrument administration for NCS Navigator""","""Ruby""","""2012-04-19 21:45:52""",\N,0,"""2016-10-11 14:11:27""",\N
+9,"""https://api.github.com/repos/sgonyea/rake-compiler""",66,"""rake-compiler""","""Provide a standard and simplified way to build and package Ruby C and Java extensions using Rake as glue.""","""Ruby""","""2012-08-01 20:33:51""",14556189,0,"""2016-10-11 14:11:32""",864
+10,"""https://api.github.com/repos/chapuni/llvm""",67,"""llvm""","""Chapuni's branch based on http://llvm.org/git/llvm.git""","""C++""","""2011-02-01 09:11:48""",\N,0,"""2016-10-11 14:11:27""",\N
+11,"""https://api.github.com/repos/heroku/heroku-buildpack-scala""",69,"""heroku-buildpack-scala""","""Heroku buildpack: Scala""","""Shell""","""2011-05-16 21:41:09""",\N,0,"""2019-03-07 11:23:11""",\N
+12,"""https://api.github.com/repos/rafacm/heroku-buildpack-scala""",70,"""heroku-buildpack-scala""","""""","""Shell""","""2012-08-02 14:50:18""",11,0,"""2016-10-11 14:11:34""",372999
+13,"""https://api.github.com/repos/Fluttershy/locria""",72,"""locria""","""Project Locria - The Beauty of Elegance""","""JavaScript""","""2012-07-02 04:29:21""",\N,1,"""1970-01-01 01:00:01""",\N
+14,"""https://api.github.com/repos/edvorg/drash""",73,"""drash""","""Free box2d based platformer with complete level destruction""","""C++""","""2012-07-24 17:17:49""",\N,1,"""1970-01-01 01:00:01""",\N
+15,"""https://api.github.com/repos/abarocio80/clide""",74,"""clide""","""A CLI project manager (not an IDE)""","""Ruby""","""2012-08-01 17:54:15""",\N,1,"""1970-01-01 01:00:01""",\N
+16,"""https://api.github.com/repos/thorlax402/thor-cms""",75,"""thor-cms""","""PHP-Based content management system developed off the CodeIgniter Framework.""",\N,"""2012-07-18 17:54:08""",\N,1,"""1970-01-01 01:00:01""",\N
+17,"""https://api.github.com/repos/Offsite/TaskCodes""",76,"""TaskCodes""","""Kamtech""","""JavaScript""","""2012-06-11 17:21:34""",\N,0,"""2016-10-11 14:11:27""",\N
+18,"""https://api.github.com/repos/markpasc/gameshake""",71,"""gameshake""","""Post MLKSHK game trailers posts to the gameshake tumblr""","""Python""","""2012-08-01 20:25:36""",\N,0,"""2016-10-11 14:11:27""",\N
+19,"""https://api.github.com/repos/samuelclay/NewsBlur""",78,"""NewsBlur""","""NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.""","""Objective-C""","""2009-01-05 14:00:43""",\N,0,"""2019-05-30 22:52:27""",\N
+
