@@ -6,8 +6,12 @@ Recruitment tool to find GitHub users.
 <hr/>
 
 ## How to install and get it up and running
-This required uses data base installed in postgres to store the summary of user data.
+This required uses data base installed in postgres to store the summary of user data in resultdb.
+In order to run this code on spark cluster:
 
+spark-submit --master <DNS>:7077 main.py <choice for processing e.g 22>
+
+In the current configuration runs on two cluster 1 Master 3 workers / 1 Master 6 Workers.
 <hr/>
 
 ## Introduction
