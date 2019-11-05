@@ -38,3 +38,4 @@ Bottle Neck: Performance of Joins for processing the data.
 
 ## Trade-offs
 Addresses the tradeoff of time to process vs. cost of processing < choice of EC2 instances : free, spot or on-demand >
+![alt text](https://github.com/madhu1/madhu1.github.io/blob/master/css/cost_vs_timeanalysis.png)
